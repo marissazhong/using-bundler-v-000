@@ -10,7 +10,6 @@ end
 group :test do
   gem "rspect"
 end
-end
 
 gem "hashie"
 gem "octokit", "~>2.0"
